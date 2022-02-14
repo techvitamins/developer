@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T14:20:22.491Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="oTrPp8F37OLpFDg5nGSu" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T14:23:03.430Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="kbyGf8mr9RDOOBrxrtSl" version="16.5.6" type="github">
   <diagram id="3-a4-CI-qSKEU-WzGFCh" name="Page-1">
-    <mxGraphModel dx="2944" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="anqY4GfiEuh1hVHhhSKL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="anqY4GfiEuh1hVHhhSKL-1" target="anqY4GfiEuh1hVHhhSKL-24">
+        <mxCell id="anqY4GfiEuh1hVHhhSKL-76" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=20;fontColor=#000000;strokeColor=default;strokeWidth=2;fillColor=none;gradientColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="577" width="260" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="anqY4GfiEuh1hVHhhSKL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;shape=link;" edge="1" parent="1" source="anqY4GfiEuh1hVHhhSKL-1" target="anqY4GfiEuh1hVHhhSKL-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="anqY4GfiEuh1hVHhhSKL-1" value="&lt;b style=&quot;font-size: 20px&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px&quot;&gt;Charging&lt;br&gt;Station&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#333333;gradientColor=none;rounded=1;shadow=1;sketch=0;glass=0;strokeColor=none;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="361" y="697" width="128" height="128" as="geometry" />
+          <mxGeometry x="361" y="719" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="anqY4GfiEuh1hVHhhSKL-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/transportation-and-vehicle/128/Transportation_And_Vehicle_3-03-128.png" vertex="1" parent="1">
           <mxGeometry x="84" y="1047" width="90" height="90" as="geometry" />
@@ -49,12 +52,13 @@
         <mxCell id="anqY4GfiEuh1hVHhhSKL-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Automotive_battery_battery_charging_car_battery_truck_battery_vehicle_battery_2-128.png;fillOpacity=70;" vertex="1" parent="1">
           <mxGeometry x="385" y="393" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="anqY4GfiEuh1hVHhhSKL-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="anqY4GfiEuh1hVHhhSKL-15">
+        <mxCell id="anqY4GfiEuh1hVHhhSKL-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#000000;entryX=0.492;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="anqY4GfiEuh1hVHhhSKL-15" target="anqY4GfiEuh1hVHhhSKL-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="575" as="targetPoint" />
+            <mxPoint x="425" y="600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="524" y="535" />
               <mxPoint x="425" y="535" />
+              <mxPoint x="425" y="597" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -127,7 +131,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="anqY4GfiEuh1hVHhhSKL-18" value="&lt;font color=&quot;#000000&quot;&gt;INVERTER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=20;fontColor=#FFFFFF;fillColor=default;gradientColor=none;strokeColor=default;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="365" y="575" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="597" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="anqY4GfiEuh1hVHhhSKL-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/133_Solar_Panel_Energy_technology_smart_city_technology_smart-128.png;rounded=1;shadow=1;glass=0;sketch=0;fontSize=20;fontColor=#000000;fillColor=default;gradientColor=none;fillOpacity=80;" vertex="1" parent="1">
           <mxGeometry x="129" y="45" width="128" height="128" as="geometry" />
@@ -139,7 +143,7 @@
           <mxGeometry x="595" y="45" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="anqY4GfiEuh1hVHhhSKL-24" value="&lt;font color=&quot;#000000&quot;&gt;CHARGER&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=20;fontColor=#FFFFFF;fillColor=default;gradientColor=none;strokeColor=default;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="364" y="885" width="120" height="60" as="geometry" />
+          <mxGeometry x="364" y="907" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="anqY4GfiEuh1hVHhhSKL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="anqY4GfiEuh1hVHhhSKL-27" target="anqY4GfiEuh1hVHhhSKL-11">
           <mxGeometry relative="1" as="geometry" />
@@ -231,13 +235,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="anqY4GfiEuh1hVHhhSKL-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bnw/64x64/actions/laptoppower.png;rounded=1;shadow=1;glass=0;sketch=0;fontSize=20;fontColor=#000000;strokeColor=default;strokeWidth=0;fillColor=#333333;gradientColor=none;rotation=60;" vertex="1" parent="1">
-          <mxGeometry x="551" y="697" width="64" height="64" as="geometry" />
+          <mxGeometry x="551" y="719" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="anqY4GfiEuh1hVHhhSKL-75" value="230V&lt;br&gt;16A&lt;br&gt;AC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="615" y="675" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="anqY4GfiEuh1hVHhhSKL-76" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=20;fontColor=#000000;strokeColor=default;strokeWidth=2;fillColor=none;gradientColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="555" width="260" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
