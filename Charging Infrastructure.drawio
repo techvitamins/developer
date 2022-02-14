@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T14:13:37.591Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="6aorkZsb1a38qVQvisyA" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T14:14:55.141Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="wZ_yamwSRx6MctTri4PJ" version="16.5.6" type="github">
   <diagram id="3-a4-CI-qSKEU-WzGFCh" name="Page-1">
-    <mxGraphModel dx="1840" dy="1308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1472" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
         <mxCell id="anqY4GfiEuh1hVHhhSKL-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Automotive_battery_battery_charging_car_battery_truck_battery_vehicle_battery_2-128.png;fillOpacity=70;" vertex="1" parent="1">
           <mxGeometry x="600" y="438" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="anqY4GfiEuh1hVHhhSKL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;shape=link;" edge="1" parent="1" source="anqY4GfiEuh1hVHhhSKL-18" target="anqY4GfiEuh1hVHhhSKL-1">
+        <mxCell id="anqY4GfiEuh1hVHhhSKL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;shape=link;strokeColor=#0000CC;" edge="1" parent="1" source="anqY4GfiEuh1hVHhhSKL-18" target="anqY4GfiEuh1hVHhhSKL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="anqY4GfiEuh1hVHhhSKL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="anqY4GfiEuh1hVHhhSKL-18" target="anqY4GfiEuh1hVHhhSKL-14">
@@ -227,11 +227,11 @@
         <mxCell id="anqY4GfiEuh1hVHhhSKL-69" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Lightning-128.png;rounded=1;shadow=1;glass=0;sketch=0;fontSize=20;fontColor=#000000;strokeColor=default;strokeWidth=0;fillColor=#333333;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="1034" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="anqY4GfiEuh1hVHhhSKL-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="anqY4GfiEuh1hVHhhSKL-71" target="anqY4GfiEuh1hVHhhSKL-1">
+        <mxCell id="anqY4GfiEuh1hVHhhSKL-72" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=link;strokeColor=#0000CC;width=3.333333333333334;" edge="1" parent="1" source="anqY4GfiEuh1hVHhhSKL-71" target="anqY4GfiEuh1hVHhhSKL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="anqY4GfiEuh1hVHhhSKL-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bnw/64x64/actions/laptoppower.png;rounded=1;shadow=1;glass=0;sketch=0;fontSize=20;fontColor=#000000;strokeColor=default;strokeWidth=0;fillColor=#333333;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="660" y="720" width="64" height="64" as="geometry" />
+        <mxCell id="anqY4GfiEuh1hVHhhSKL-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bnw/64x64/actions/laptoppower.png;rounded=1;shadow=1;glass=0;sketch=0;fontSize=20;fontColor=#000000;strokeColor=default;strokeWidth=0;fillColor=#333333;gradientColor=none;rotation=54;" vertex="1" parent="1">
+          <mxGeometry x="608" y="742" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
