@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T14:15:48.268Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="2y1YuPoZv7JA4NwUJ7jj" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T14:16:05.228Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="eF53aIrQcIPJmkmt2arR" version="16.5.6" type="github">
   <diagram id="3-a4-CI-qSKEU-WzGFCh" name="Page-1">
     <mxGraphModel dx="1472" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,10 +231,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="anqY4GfiEuh1hVHhhSKL-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bnw/64x64/actions/laptoppower.png;rounded=1;shadow=1;glass=0;sketch=0;fontSize=20;fontColor=#000000;strokeColor=default;strokeWidth=0;fillColor=#333333;gradientColor=none;rotation=60;" vertex="1" parent="1">
-          <mxGeometry x="611.5" y="742" width="64" height="64" as="geometry" />
+          <mxGeometry x="566" y="742" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="anqY4GfiEuh1hVHhhSKL-75" value="230V&lt;br&gt;16A&lt;br&gt;AC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="678" y="710" width="60" height="80" as="geometry" />
+          <mxGeometry x="630" y="720" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
