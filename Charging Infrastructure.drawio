@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T13:46:50.885Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="bXC2Pjf90e3ZiJpWP1Kh" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T13:47:35.266Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="vBe-8o2rmCXVCipPPMeF" version="16.5.6" type="github">
   <diagram id="3-a4-CI-qSKEU-WzGFCh" name="Page-1">
-    <mxGraphModel dx="1544" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1738" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="anqY4GfiEuh1hVHhhSKL-1" value="&lt;b style=&quot;font-size: 20px&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px&quot;&gt;Charging&lt;br&gt;Station&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3333FF;gradientColor=none;rounded=1;shadow=1;sketch=0;glass=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="anqY4GfiEuh1hVHhhSKL-1" value="&lt;b style=&quot;font-size: 20px&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px&quot;&gt;Charging&lt;br&gt;Station&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#333333;gradientColor=none;rounded=1;shadow=1;sketch=0;glass=0;strokeColor=none;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="374" y="622" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="anqY4GfiEuh1hVHhhSKL-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/transportation-and-vehicle/128/Transportation_And_Vehicle_3-03-128.png" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="anqY4GfiEuh1hVHhhSKL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="anqY4GfiEuh1hVHhhSKL-18" target="anqY4GfiEuh1hVHhhSKL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="anqY4GfiEuh1hVHhhSKL-18" value="&lt;font color=&quot;#000000&quot;&gt;DC / AC&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=20;fontColor=#FFFFFF;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="anqY4GfiEuh1hVHhhSKL-18" value="&lt;font color=&quot;#000000&quot;&gt;DC / AC&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=20;fontColor=#FFFFFF;fillColor=default;gradientColor=none;strokeColor=default;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="378" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="anqY4GfiEuh1hVHhhSKL-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/133_Solar_Panel_Energy_technology_smart_city_technology_smart-128.png;rounded=1;shadow=1;glass=0;sketch=0;fontSize=20;fontColor=#000000;fillColor=default;gradientColor=none;fillOpacity=80;" vertex="1" parent="1">
