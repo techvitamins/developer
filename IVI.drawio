@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T07:28:48.320Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ysFZB4ykPCEbRT9wL5JS" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T07:33:10.058Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="g-Lxi9t7C7AOsrK3Ww09" version="17.1.2" type="github">
   <diagram id="bnbP6OcpH1NLOzMTCmPw" name="Page-1">
     <mxGraphModel dx="744" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,17 +25,29 @@
         <mxCell id="xFkp3cyiKku6F0Zyy1Ib-3" value="&lt;b&gt;DISPLAY&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xFkp3cyiKku6F0Zyy1Ib-9" value="Bluetooth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xFkp3cyiKku6F0Zyy1Ib-9" value="&lt;b&gt;Bluetooth&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="135" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xFkp3cyiKku6F0Zyy1Ib-10" value="Wi-Fi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xFkp3cyiKku6F0Zyy1Ib-10" value="&lt;b&gt;Wi-Fi&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="185" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xFkp3cyiKku6F0Zyy1Ib-11" value="3G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xFkp3cyiKku6F0Zyy1Ib-11" value="&lt;b&gt;3G&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="235" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xFkp3cyiKku6F0Zyy1Ib-12" value="GPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xFkp3cyiKku6F0Zyy1Ib-12" value="&lt;b&gt;GPS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="285" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkp3cyiKku6F0Zyy1Ib-18" value="&lt;b&gt;PAL Analog&lt;br&gt;Camera&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="135" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkp3cyiKku6F0Zyy1Ib-19" value="Audio IN&lt;br&gt;(3.5mm Jack)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="185" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkp3cyiKku6F0Zyy1Ib-20" value="USB 2.0&lt;br&gt;OTG" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="235" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkp3cyiKku6F0Zyy1Ib-21" value="&lt;b&gt;Digital&lt;br&gt;I/Os&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="285" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
